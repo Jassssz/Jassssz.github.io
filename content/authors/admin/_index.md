@@ -64,7 +64,7 @@ work:
     company_name: UNSW CTET
     company_url: 'https://www.unsw.edu.au/research/ctet'
     company_logo: ''
-    date_start: 2021-04
+    date_start: 2021-04-01
     date_end: ''
     # summary: |
     #   Responsibilities include:
