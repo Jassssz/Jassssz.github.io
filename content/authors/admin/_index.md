@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 朱芸毅
+title: 朱芸毅 || Yunyi (Jason) Zhu
 
 
 # Full name (for SEO)
