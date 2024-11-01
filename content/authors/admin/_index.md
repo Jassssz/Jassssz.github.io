@@ -47,14 +47,14 @@ interests:
 education:
   - area: PhD Engineering
     institution: The University of New South Wales
-    date_start: 2022-09
+    date_start: 2022-09-01
     date_end: now
     summary: |
       Thesis on Application of Digital Twins in the water sector. Supervised by [Prof T. David Waite](https://www.unsw.edu.au/staff/david-waite) and [Dr Yuan Wang](https://www.unsw.edu.au/staff/yuan-wang). Presented at 7 conferences, including ACM Siggraph Asia and Digital Twin International Conference. Published 6 journal articles on digital twins for membrane capacitive deionization and membrane capacitive deionization.
   - area: BEng Civil Engineering with Architecture (First Class Honours)
     institution: The University of New South Wales
-    date_start: 2018-02
-    date_end: 2021-12
+    date_start: 2018-02-01
+    date_end: 2021-12-31
     summary: |
       First Class Honours: 85.3/100
       
