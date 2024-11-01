@@ -114,22 +114,22 @@ languages:
 awards:
   - title: Best Presentation Nomination Award
     url: ''
-    date: '2022-12'
+    date: '2022-10-05'
     awarder: The 2nd Digital Twin Internation Conference
     icon: 
     summary: |
 
   - title: Australian Government Research Training Program International (RTP) Scholarship
     url: 
-    date: '2022'
+    date: '2022-08-15'
     awarder: UNSW
     icon: 
     summary: |
 
-  - title: Dean's Honours List
+  - title: Dean's Honours List (2018-2020)
     url: 
     certificate_url: 
-    date: '2018 to 2020'
+    date: '2020-01-01'
     awarder: UNSW
     icon: 
     summary: |
