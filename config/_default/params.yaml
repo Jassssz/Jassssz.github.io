@@ -58,3 +58,15 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+design:
+  background:
+    color: 'navy'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
+
+avatar:
+  gravatar: false
+
+  # Choose a shape for avatar images. Options: circle, square.
+  shape: 'square'
