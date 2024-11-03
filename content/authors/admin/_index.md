@@ -9,7 +9,7 @@ last_name: Zhu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -50,7 +50,7 @@ education:
     date_start: 2022-08-15
     date_end: 2026-02-14
     summary: |
-      Thesis on Application of Digital Twins in the water sector. Supervised by [Prof T. David Waite](https://www.unsw.edu.au/staff/david-waite) and [Dr Yuan Wang](https://www.unsw.edu.au/staff/yuan-wang). Presented at 7 conferences, including ACM Siggraph Asia and Digital Twin International Conference. Published 6 journal articles on digital twins for membrane capacitive deionization and membrane capacitive deionization.
+      Thesis on Application of Digital Twins in the water sector. Supervised by [I'm an external link](https://www.google.com) and [I'm an external link](https://www.google.com). Presented at 7 conferences, including ACM Siggraph Asia and Digital Twin International Conference. Published 6 journal articles on digital twins for membrane capacitive deionization and membrane capacitive deionization.
   - area: BEng Civil Engineering with Architecture (First Class Honours)
     institution: The University of New South Wales
     date_start: 2018-02-01
