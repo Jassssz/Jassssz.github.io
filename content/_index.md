@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a PhD researcher at the University of New South Wales. I apply a range of digital tools and technologies to (1) predict the performance of water and wastewater treatment processes, and (2) support the operation and decision making of real-world water facilities.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in water and environmental engineering.
         
         Please reach out to collaborate 😃
     design:
