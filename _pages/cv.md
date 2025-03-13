@@ -22,6 +22,7 @@ Scholarships & Awards
 * Dean’s Honours List, UNSW (2018-2020)
 
 Work Experience
+======
 * 12/2021 ~ now: Research Engineer
   * UNSW CTET
 
