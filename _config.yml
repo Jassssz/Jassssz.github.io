@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Yunyi (Jason) Zhu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yunyi (Jason) Zhu"
 description              : &description "personal description"
 url                      : https://Jassssz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate & Research Consultant (Engineer) at UNSW Centre for Transformational Environmental Technologies"
   location         : "Sydney, Australia"
-  employer         : "University of New South Wales"
+  employer         : "UNSW Sydney"
   uri              : # URL
   email            : "yunyi.zhu@unsw.edu.au" 
 
