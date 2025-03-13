@@ -6,7 +6,7 @@ permalink: /publication/MCDI_fieldTrial
 excerpt: 'This paper is about the long-term field trial of MCDI for drinking water purification in Central Australia'
 date: 2024-03-03
 venue: 'Water Research'
-image: 'https://Jassssz.github.io/images/publications/image.png'
+image: 'https://Jassssz.github.io/images/publications/image.jpg'
 # slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://Jassssz.github.io/files/MCDI_fieldTrial.pdf'
 citation: 'Zhu, Y., Miller, C., Lian, B., Wang, Y., Fletcher, J., Zhou, H., He, Z., Lyu, S., Purser, M., Juracich, P. and Sweeney, D., 2024. Brackish groundwater desalination by constant current membrane capacitive deionization (MCDI): Results of a long-term field trial in Central Australia. Water Research, 254, p.121413.'
