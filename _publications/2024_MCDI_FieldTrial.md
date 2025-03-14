@@ -13,7 +13,7 @@ paperurl: 'https://Jassssz.github.io/files/MCDI_fieldTrial.pdf'
 ---
 <div style="display: flex; justify-content: center; margin-bottom: 1rem;">
   <img src="{{ site.baseurl }}/images/publications/field_trial_1.jpg" alt="image 1" style="width:60%; margin-right:0.5rem;">
-  <img src="{{ site.baseurl }}/images/publications/field_trial_2.png" alt="image 2" style="width:60%; margin-right:0.5rem;">
+  <img src="{{ site.baseurl }}/images/publications/field_trial_2.png" alt="image 2" style="width:40%; margin-right:0.5rem;">
 </div>
 
 [More information here](https://doi.org/10.1016/j.watres.2024.121413)
