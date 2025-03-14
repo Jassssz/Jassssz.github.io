@@ -1,8 +1,6 @@
 ---
 permalink: /
 title: "About Me"
-header:
-  image: "https://Jassssz.github.io/images/favicon-32x32.png"
 author_profile: true
 redirect_from: 
   - /about/
