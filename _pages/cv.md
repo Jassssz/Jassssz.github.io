@@ -16,7 +16,7 @@ Education
 
 Scholarships & Awards
 ======
-* Australian Government Research Training Program International (RTP) Scholarship (2022-2026)
+* Australian Government Research Training Program International (RTP) Scholarship (supported by the Commonwealth Government, highly competitive) (2022-2026)
 * First Prize, the 12th Wuxi Natural Science Outstanding Academic Paper Award (2020–2021)
 * Best Presentation Nomination Award, The 2nd Digital Twin Internation Conference (2022)
 * Dean’s Honours List, UNSW (2018-2020)
