@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-Yunyi (Jason) Zhu is currently a third-year PhD candidate at the UNSW School of Civil and Environmental Engineering, supervised by [Prof. T. David Waite](https://www.unsw.edu.au/staff/david-waite) and [Dr. Yuan Wang](https://www.unsw.edu.au/staff/yuan-wang).
+Yunyi (Jason) Zhu is currently a final-year PhD candidate at the UNSW School of Civil and Environmental Engineering, supervised by [Prof. T. David Waite](https://www.unsw.edu.au/staff/david-waite) and [Dr. Yuan Wang](https://www.unsw.edu.au/staff/yuan-wang).
 
-My recent research focuses on developing [ML-driven, AR/VR-enabled Digital Twins](https://trityenviro.com/bd/the-cutting-edge-technology-behind-smart-water-treatment-systems) for performance prediction and optimization of environmental technologies, with a particular emphasis on time-series modeling and causal inference of performance deterioration during long-term operations of water and wastewater treatment plants.
+My recent research focuses on developing [Digital Twins](https://trityenviro.com/bd/the-cutting-edge-technology-behind-smart-water-treatment-systems) that integrate mechanistic insights, data-driven models, and IoT systems for real-time performance monitoring, prediction and optimization of environmental technologies, with particular emphasis on performance deterioration during the long-term operation of water and wastewater treatment infrastructure.
 
-My research motivation is to leverage skills and technology to transform how humans perceive and interact with the environment and the world. I am driven by my curiosity to explore the intricate interplays of biological, physical, and chemical processes in both natural and engineered systems.
+My research motivation is to leverage skills and technologies to transform how humans perceive and interact with the environment and the world around them. I am driven by a strong curiosity to explore the intricate interplay of biological, physical, and chemical processes in both engineered and natural systems.
 
